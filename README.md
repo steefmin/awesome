@@ -1,4 +1,4 @@
-# awesome
+# Awesome Enrise [![Awesome](https://awesome.re/badge-flat.svg)](https://enrise.com)
 > Multiple curated lists of all kinds of things we love at Enrise
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
